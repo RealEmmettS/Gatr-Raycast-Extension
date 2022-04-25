@@ -1,0 +1,1 @@
+# Gatr Raycast Extension
